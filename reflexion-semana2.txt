@@ -1,0 +1,9 @@
+Para un desarrollador, dominar la terminal es una habilidad fundamental 
+porque optimiza el flujo de trabajo y permite interactuar con el sistema operativo de forma directa y veloz,
+superando las limitaciones de la interfaz gráfica. Al automatizar tareas, gestionar entornos virtuales y organizar archivos mediante comandos, 
+se ahorra tiempo valioso en el día a día. Además, la mayoría de los servidores en la nube y entornos de producción carecen de interfaz visual, 
+por lo que la terminal es el único medio para configurar y desplegar aplicaciones. El uso de la línea de comandos también es indispensable
+para integrarse correctamente con herramientas de control de versiones como Git, 
+lo que facilita el trabajo colaborativo.
+En conclusión, la terminal no solo mejora la productividad individual, 
+sino que es el estándar profesional para administrar cualquier proyecto de software de manera eficiente y segura.
